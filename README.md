@@ -1,10 +1,8 @@
-FINAL README.md --- Pathway Explorer
-
-(fully integrated with everything your project does)
-
 # 🔬 Pathway Explorer
 
 ### Chemical Reaction Knowledge Graph (USPTO 1976)
+
+*Built for SER 531 at Arizona State University.*
 
 Pathway Explorer is a web-based platform for exploring **chemical
 reaction pathways**,\
@@ -101,8 +99,8 @@ Follow these steps to run the project locally.
 ## 1️⃣ Clone the Repository
 
 ``` bash
-git clone https://github.com/your-username/pathway-explorer.git
-cd pathway-explorer
+git clone https://github.com/ShrinidhiMane/ser-531.git
+cd ser-531
 ```
 
 ## 2️⃣ Install Frontend Dependencies
